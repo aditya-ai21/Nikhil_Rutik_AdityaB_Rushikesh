@@ -1,18 +1,30 @@
 <div align="center">
 
-# 🎓 Cloud-Based Placement Management and Recruitment System
+# 🎓 Cloud-Based Placement Management & Recruitment System
 
 **A full-stack campus placement platform connecting Students, Placement Officers, and Corporate Recruiters.**
 
-![React](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Vite-61DAFB?logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Backend-Flask%20(Python%203.12)-000000?logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/Deploy-Render-46E3B7?logo=render&logoColor=black)
+<a href="https://frontend-opal-tau-kjcer8fkaw.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_App-2ea44f?style=for-the-badge" alt="Live Demo" height="64"> </a>
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Python_3.12-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[Features](#-key-features) •
+[Tech Stack](#️-technology-stack) •
+[Demo Login](#-demo-credentials) •
+[Setup](#-local-development-setup) •
+[Deployment](#-deployment) •
+[Security](#-security)
 
 </div>
 
 ---
-## Live URL :  https://frontend-opal-tau-kjcer8fkaw.vercel.app/
 
 ## 👥 Created By
 
